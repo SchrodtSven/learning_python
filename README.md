@@ -1,3 +1,8 @@
+---
+config:
+  look: handDrawn
+  theme: neutral
+---
 # learning_python
 Guess what...
 ```mermaid
