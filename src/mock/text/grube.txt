@@ -1,0 +1,12 @@
+Metasyntactic variables used commonly across all programming languages include foobar, foo, bar, baz, qux, quux, corge, grault, garply, waldo, fred, plugh, xyzzy
+
+for a in range(12):
+    no = get_random_number()    
+    print(f"'{no}',", end=" ")
+    
+print ('-------------------------------------------')
+for b in range(12):
+    no = get_random_number(False)    
+    print(f"'{no}'", end=", ")
+
+    

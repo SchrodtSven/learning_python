@@ -1,0 +1,104 @@
+
+Zen of python taken from a usenet post (1999-06-04)
+
+
+Tim Peters * 
+04.06.1999, 09:00:00
+an pytho...@python.org
+[Fredrik Lundh]
+
+> sure looks like the "community" thinks that changing the
+> language is more important than using it...
+
+[Patrick Phalen]
+
+
+> Yeah; now that you mention it, the "let's fix Python" discourse
+> has been approaching my pain threshold, as it does once in awhile.
+
+That's the spirit <wink>!
+
+> (Have you noticed that, during such periods, both Guido and Tim
+> seem to become singularly quiet?)
+
+It's just old. python.org has archives of the pre-c.l.py days, and you'll
+find many of the old-timers arguing vigorously about all the "current
+issues" 8 years ago already. There have been few notable advances in the
+art of GC-- let alone whitespace --since then, and repetition is tiring.
+That doesn't mean people to whom it's all fresh shouldn't have fun clawing
+each others' eyes out, though. OTOH, doesn't mean they should, either.
+
+> Not that Python shouldn't be open to critique,
+
+It's far too late to complain about 1.5.2 <0.9 wink>.
+
+> but the more I use and learn about the language, the more I find myself
+> appreciating the nice balance and heft Guido gave to it. Yet there doesn't
+> seem to be a single document that sums up that "aesthetic," but rather it
+> tends to appear piecemeal, over time, mostly in the Wisdom of Chairman
+> Tim.
+
+Eh? I make shit up as I go along -- & Guido often appears to think that my
+fabrications would be good positions for him to have pretended he had all
+along too. OTOH, after all these years, I *still* have to lecture him
+about his true vision of what Python should be ... although he learns pretty
+fast, for a Dutch guy <wink>.
+
+> I'd like to suggest something as a sort of balm for those of us who
+> come here to try to learn to work with, rather than against, the grain
+> of Python:
+>
+> Would both Guido and TIm Peters be willing to collaborate on a short
+> paper -- call it "The Python Way" for lack of a better title -- which
+> sets out the 10-20 prescriptives they might offer to those who come to
+> Python from other languages and immediately want to find a way to bend
+> it into uncomfortable positions -- (implement closures, etc.).
+
+And forego all those juicy Guido Channeling fees?! Not me.
+
+> What I have in mind is sort of a very brief Strunk-&-White-like
+> "Elements of Style" for Python, which suggests fundamental idiomatic
+> recommendations for operating within the spirit of the language. A
+> distillation of Python Zen is what I'm talking about -- something to go
+> off and contemplate when the "fix Python now" decibels become a bit
+> much.
+>
+> Tim? Guido?
+
+Clearly a job for Guido alone -- although I doubt it's one he'll take on
+(fwiw, I wish he would too!). Here's the outline he would start from,
+though <wink>:
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+
+There you go: 20 Pythonic Fec^H^H^HTheses on the nose, counting the one I'm
+leaving for Guido to fill in. If the answer to *any* Python design issue
+isn't obvious after reading those -- well, I just give up <wink>.
+
+let's-hear-it-for-lambda-in-curly-assignment-stmts-ly y'rs - tim
+
+
+
+-- 
+* Long time Pythoneer Tim Peters succinctly channels the BDFL**s guiding principles
+(creator of Timesort - @see: https://en.wikipedia.org/wiki/Timsort) 
+
+** Benevolent dictator for life
