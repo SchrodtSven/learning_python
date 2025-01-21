@@ -1,18 +1,18 @@
----
-config:
-  look: handDrawn
-  theme: neutral
----
 # learning_python
 Guess what...
-```mermaid
-erDiagram
-          CUSTOMER }|..|{ DELIVERY-ADDRESS : has
-          CUSTOMER ||--o{ ORDER : places
-          CUSTOMER ||--o{ INVOICE : "liable for"
-          DELIVERY-ADDRESS ||--o{ ORDER : receives
-          INVOICE ||--|{ ORDER : covers
-          ORDER ||--|{ ORDER-ITEM : includes
-          PRODUCT-CATEGORY ||--|{ PRODUCT : contains
-          PRODUCT ||--o{ ORDER-ITEM : "ordered in"
-```
+
+## Prologue
+
+I am learning Python now - nuff said.
+
+## Epilogue
+Yes, I am also using Code Tags created by myself (TIL, ), taken from DocBlock world in majuscule (AUTHOR, SINCE, SEE ...) w/o the @ sign in this repo.
+
+
+## Appendix 
+
+### Directories 
+
+src - Source code files 
+
+test - Unit tests 
