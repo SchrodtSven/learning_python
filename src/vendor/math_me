@@ -1,0 +1,5 @@
+def square_sum(x, y):
+    """(x,y)=x^{2}+y^{2}}"""
+    return x**2 + y**2
+
+print(square_sum(2,3))

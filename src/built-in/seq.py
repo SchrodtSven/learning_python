@@ -86,6 +86,28 @@ print(res)
 res = [val * 2 for val in [1, 2, 3, 4, 5]]
 print(res)
 
+# list comprehension calling function
+
+dates = [
+    "01.10.2024", "02.10.2024", "03.10.2024", "04.10.2024", "05.10.2024",
+    "06.10.2024", "07.10.2024", "08.10.2024", "09.10.2024", "10.10.2024",
+    "11.10.2024", "12.10.2024", "13.10.2024", "14.10.2024", "15.10.2024",
+    "16.10.2024", "17.10.2024", "18.10.2024", "19.10.2024", "20.10.2024",
+    "21.10.2024"
+]
+
+def date_de_iso(date1):
+    day, month, year = date1.split('.')
+    return '-'.join([year, month, day])
+
+print(date_de_iso(dates[3]))
+
+iso_dates = [date_de_iso(i) for i in dates]
+print(iso_dates)
+
+
+
+
 # list concatenation
 
 concatted_list = [3, 2, 2] + [99, 102, 1]

@@ -38,14 +38,22 @@ class Rectangle:
         if callable(other_area):
             return self.area() + other.area()
         
-        
+class Foo:
+    def area(self): 
+        return 2.321
+    def __add__(self, other):
+        return self.area() + other.area()
         
 a = Rectangle(3, 4)
 b = Rectangle(1, 2)
 print(a.area())
 print(b.area())
 
+c = Foo()
 
-print(b + a)
+print(b + c)
 
-help(Rectangle)
+
+print(c + b)
+
+# help(Rectangle)

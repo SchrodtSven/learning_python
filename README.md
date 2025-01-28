@@ -6,7 +6,7 @@ Guess what...
 I am learning Python now - nuff said.
 
 ## Epilogue
-Yes, I am also using Code Tags created by myself (TIL, ), taken from DocBlock world in majuscule (AUTHOR, SINCE, SEE ...) w/o the @ sign in this repo.
+Yes, I am also using Code Tags created by myself (TIL, ), taken from DocBlock world in majuscule (AUTHOR, SINCE  ...) w/o the @ sign in this repo.
 
 
 ## Appendix 
