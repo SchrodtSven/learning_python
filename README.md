@@ -16,3 +16,5 @@ Yes, I am also using Code Tags created by myself (TIL, ), taken from DocBlock wo
 src - Source code files 
 
 test - Unit tests 
+
+meta - stuff about stuff about Python

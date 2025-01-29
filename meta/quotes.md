@@ -1,5 +1,5 @@
-## 
-*  -- 
+## Quotes 
+
 <figure>
     <blockquote cite="https://">
         <p>"Interfaces are not necessary in Python. Except when they are."</p>
