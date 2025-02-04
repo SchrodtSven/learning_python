@@ -10,12 +10,11 @@ result = zip(languages, versions)
 
 print(list(result))
 
-first_name = ['Piggy','Earl','Theresa','Martina','Dougie', 'Stan']
-hobby = ['Walking','Boxing','Fishing','Bowling','Hacking','CNCing']
-born = [1923, 1965, 2011, 2006, 1983,1904]
+name = ['Piggy','Earl','Theresa','Madame Quux', 'Martina','Dougie', 'Stan', 'Harlequeen'] 
+hobby = ['Walking', 'Hacking', 'Boxing','3D Printing', 'Fishing','Bowling','Nitpicking', 'CNCing']
+born = [1923, 1965, 2011, 2001, 2006, 1983, 1904, 1664]
 
-for f, h, b in zip(first_name, hobby, born):
-     print(f"{f} with hobby '{h}' was born in {b} ")
+for n, h, b in zip(name, hobby, born):
+     print(f"{n} with hobby '{h}' was born in {b} ")
     
-print(list(zip(born, first_name, hobby)))
-    
+#print(list(zip(born, name, hobby)))
