@@ -47,7 +47,7 @@ list = [1, 2, 3, 4, 5]
 for num in list:
     product = product * num
     print(product)
-
+print('____________________________________')
 product = reduce((lambda x, y: x * y), [1, 2, 3, 4])
 print(product)
 

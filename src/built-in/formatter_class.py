@@ -24,4 +24,3 @@ print(math.e)
 print(repr(Foo))
 print(repr(Foo()))
 
- 
