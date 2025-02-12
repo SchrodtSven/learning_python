@@ -1,6 +1,0 @@
-{
-    "python.analysis.extraPaths": [
-        "./DC_transfer/test_",
-        "./DC_transfer/test_"
-    ]
-}
