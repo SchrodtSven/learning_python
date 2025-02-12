@@ -1,0 +1,1 @@
+https://query.wikidata.org/#%23Largest%20cities%20with%20female%20mayor%0A%23added%20before%202016-10%0A%23TEMPLATE%3D%7B%22template%22%3A%22Largest%20%3Fc%20with%20%3Fsex%20head%20of%20government%22%2C%22variables%22%3A%7B%22%3Fsex%22%3A%7B%22query%22%3A

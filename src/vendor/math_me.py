@@ -1,3 +1,7 @@
+# SEE: https://www.nachhilfe-team.net/lernen-leicht-gemacht/lineare-gleichungen/
+#      https://en.wikipedia.org/wiki/Zero_of_a_function
+# 
+
 def square_sum(x, y):
     """(x,y)=x^{2}+y^{2}}"""
     return x**2 + y**2

@@ -1,0 +1,18 @@
+2025-02-11 13:04:48.100767
+Hallo ich bin Bot, wer bist Du?
+User-->Bot: PEter
+2025-02-11 13:05:41.928960
+Hallo ich bin Bot, wer bist Du?
+User-->Bot: Peter Pan
+2025-02-11 13:06:28.953032
+Hallo ich bin Bot, wer bist Du?
+User-->Bot: Peter
+2025-02-11 13:07:31.007411
+Hallo ich bin Bot, wer bist Du?
+User-->Bot: Peter
+2025-02-11 13:12:08.573377
+Hallo ich bin Bot, wer bist Du?
+User-->Bot: Bastian
+User-->Bot: Bot ->>: foo
+User-->Bot: quit
+User-->Bot: Bot ->>: Lorem

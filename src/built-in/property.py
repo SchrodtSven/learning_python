@@ -35,3 +35,5 @@ print(john.name, john.birth_date)
 john.name = 'John Foo'
 
 print(john.name, john.birth_date)
+
+print(john.__dict__)

@@ -6,12 +6,24 @@
 # SINCE: 2025-02-03
 # SEE: https://docs.python.org/3/howto/regex.html
 
-""" “There are applications that don’t need REs at all, so there’s no need to 
+""" Quote from python.org “There are applications that don’t need REs at all, so there’s no need to 
      bloat the language specification by including them.”
 """
-# “
-# ”
+# Importing lib
 import re
+
+# Regular expressions use the backslash character ('\') ..
+txt = 'Pyromane Pyotr Parker klagt und Dr. E. Pythgoras sagt: Pytillo, Du  Pythonschlange' #.. so we use raw string for Regexs 
+
+# examples in re \b -> boundary 
+#                \w -> matching whole word(s)
+#                + -> quantifier for 1 ..x times
+
+matches = re.findall(r'\bpy\w+\b', txt, re.I)
+print(matches)
+print(type(matches))
+assert(len(matches) == 5)
+
 
 txt = 'The rain in Spain'
 x = re.findall('[a-c]', txt)
@@ -22,7 +34,7 @@ print(x)
 txt = "The rain in Spain, the block in __main__. You're so vain, said Johnny's Wayne"
 fnd = r'ai'
 
-x = re.findall(fnd, txt, re.IGNORECASE)
+x = re.findall(fnd, txt, re.IGNORECASE) # or re.I 
 print(x) 
 print(type(x)) 
 
@@ -72,3 +84,36 @@ ml_txt = """  In May 2020 I lost 2.32 € on my way home.
 """
 
 print(re.findall(r"-?\d+(?:[.,]\d+)?", ml_txt, re.I))
+
+txt = '''                                                    Castrop-Rauxel, 16.01.2025
+                    Liebes Krümmelmonster,
+                    am 25.11.2024 habe ich eine Website besucht und musste
+                    sofort an Dich denken: so viele Cookies!  
+                    Am 03.01.2025 habe ich die  Site wieder angesurft.
+                    Weitere Male (15.01.2025, 28.01. und 03.04, also gestern)
+                    hagelte es nur Fehlermeldungen des Aromas'*NXDOMAIN'. Das 
+                    hilet an bis zum bis heute. 
+                    Sehen wir uns am 23.05.2025 zum Jahrestag des <GG />?
+                    
+                    Glück auf!  
+                    
+                    Hanny 'Peter_X' Wechselbaum
+'''
+
+# finding german dates
+
+matches = re.findall(r'\b\d+[.]\d+[.]\d+\b', txt)
+print(matches)
+
+# get the months
+
+matches = re.findall(r'\.(.*?)\.', txt)
+print(matches)
+
+foo = """ Hallo Python-Freunde,
+          in dieser Ausgabe wenden wir uns an euch mit einer traurigen Mitteilung:
+          Python 2.* ist tot.
+          'Endlich!' vernehme ich aus der Ferne laut gerufen
+          """
+          
+print(foo)
