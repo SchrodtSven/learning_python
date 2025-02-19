@@ -157,5 +157,6 @@ cython_debug/
 # local only stuff
 tmp/
 .DS_Store
+.vscode
 DC_transfer
 README.local.md
