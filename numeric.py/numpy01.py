@@ -1,4 +1,4 @@
-# dotd.py | numpy01.py
+# numpy01.py
 #
 # AUTHOR: Sven Schrodt
 # SINCE: 2025-02-19
