@@ -20,4 +20,6 @@ print(type(di), di)
 pd_dict = pd.Series(di)
 print(pd_dict)
 
-# Sl@nG -> Programmiersprache
+
+
+
