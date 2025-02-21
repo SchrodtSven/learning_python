@@ -1,4 +1,13 @@
-# Data types in Pthon
+# Data types in Python
+
+In python everything is an <b>object</b>. Objects are the basic entities or values in Python. Each object has a <i>type</i>
+
+In a general view on data types we can divide them into:
+ 
+ - <b>mutable</b>
+ - <b>immutable</b> 
+
+ as described below..
 
 ## *Scalar* objects are:
 
@@ -10,9 +19,16 @@
 
 - _The unique value_ <code>None</code>. eg: <code>None</code>
 
-## Non scalar objects
+## *Non scalar* objects
 
-These are the objects with internal structure. Eg: <code>strings, lists</code> and <code>tuples</code>.
+Objects with internal structure. Eg: <code>strings, lists</code> and <code>tuples</code>.
+
+
+
+## Used Resources
+
+ - https://medium.com/@jyotiranjanmishra1990/all-you-need-to-know-about-different-data-types-in-python-a71d632897c7
+
 
 
 
