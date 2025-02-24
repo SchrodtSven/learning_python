@@ -12,5 +12,8 @@ def filter_by_criteria(taxis, boroughs_of_interest = ['Brooklyn', 'Bronx'], favo
     
 
 taxis = sns.load_dataset('taxis')    
+stats = {'max_dist': taxis['distance'].max(), 'min_dist': taxis['distance'].min()}
 slice_sophisticated = filter_by_criteria(taxis)
-print(slice_sophisticated)
+#print(slice_sophisticated)
+
+print(taxis['dropoff_zone'].unique())

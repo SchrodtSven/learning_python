@@ -1,0 +1,5 @@
+# Foo
+
+- index
+- axis 
+- columns
