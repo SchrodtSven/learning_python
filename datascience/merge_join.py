@@ -1,9 +1,8 @@
 import pandas as pd
 
-# Temperatur-Messwerte
+ 
 temp = [4.5, 6.3, 3.8, 5.1, 4.9, 5.7, 4.2, 6.0]
 
-# Zeitstempel für Messzeitpunkt
 times = [
     "2023-01-01 19:08",
     "2023-01-01 18:17",
@@ -15,7 +14,7 @@ times = [
     "2023-01-01 11:16",
 ]
 
-# Orte und Luftdruckmessung
+ 
 meteo_dict = {
     "Location": [
         "Berlin",
@@ -33,8 +32,7 @@ meteo_dict = {
 df_temp_time = pd.DataFrame({"ts": times, "temp": temp})
 print(df_temp_time)
 df_meteo = pd.DataFrame(meteo_dict)
-# print(meteo_dict)
-# lonf / lat
+ 
 geo_dict = {
     "Location": [
         "Berlin",
