@@ -20,5 +20,4 @@ sorted = custom.sort_values("population", ascending = False)
 
 print(data.head())
 # print(data[['label_en', 'coordinates']].head())
-
 # sorted.to_csv('foo.csv', index=False) #  save without index 
