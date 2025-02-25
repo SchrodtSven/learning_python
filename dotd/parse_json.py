@@ -8,3 +8,5 @@ parsed = json.loads(dta)
 
 for item  in parsed:
     print(item['first_name'])
+
+print(parsed)
