@@ -16,4 +16,9 @@ data = pd.read_json(file)
 custom = data[["name", "population", "coordinates"]]
 sorted = custom.sort_values("population", ascending = False)
 # data.set_index("name", inplace = True)
-print(data.select_dtypes('object').head())
+
+
+print(data.head())
+# print(data[['label_en', 'coordinates']].head())
+
+# sorted.to_csv('foo.csv', index=False) #  save without index 
