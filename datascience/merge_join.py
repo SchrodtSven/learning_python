@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+# datascience/merge
+# 
+# SUBJECT:Merging, joining DFs
+# AUTHOR: Sven Schrodt <sven@schrodt.club>
+# SINCE: 2025-02-24
 import pandas as pd
 
  

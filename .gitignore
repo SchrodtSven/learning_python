@@ -22,3 +22,6 @@ README.local.md
 nycflights.csv
 # locally tested PHP stuff 
 *.php
+
+# locally tested C stuff 
+*.c

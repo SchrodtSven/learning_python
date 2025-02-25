@@ -49,3 +49,6 @@ qb = QueryBuilder()
 qb._select(['id'])._from('my_clients')._where('zip BETWEEN 47000 AND 51000')
 
 print(qb)
+
+
+# ./pma/js/vendor/zxcvbn.js
