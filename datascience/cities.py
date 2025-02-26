@@ -1,6 +1,6 @@
 import pandas as pd
 
-file = 'de.cities.csv'
+file = 'cities.csv'
 
 data = pd.read_csv(file)
 # data.columns = ['Country_Code', 'City', 'Latitude', 'Longitude']
