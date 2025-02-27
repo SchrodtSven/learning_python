@@ -1,5 +1,6 @@
 # Resources 
 
+ - https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
  - https://pandas.pydata.org/docs/user_guide/cookbook.html
  - https://code.datasciencedojo.com/datasciencedojo/datasets
 
