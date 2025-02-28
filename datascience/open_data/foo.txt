@@ -1,0 +1,5 @@
+'SPD', 'CDU', 'GRÜNE', 'FDP', 'AfD', 'CSU', 'Die, Linke', 'FREIE, WÄHLER'
+, 'Tierschutzpartei', 'dieBasis', 'Die, PARTEI', 'Team, Todenhöfer', 'PIRATEN'
+, 'Volt', 'ÖDP', 'SSW', 'Verjüngungsforschung', 'PdH', 'Bündnis, C', 'BP', 'MLPD'
+, 'MENSCHLICHE, WELT', 'PdF', 'SGP', 'BüSo', 'BÜNDNIS, DEUTSCHLAND', 'BSW'
+, 'MERA25', 'WerteUnion'
