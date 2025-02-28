@@ -28,7 +28,7 @@ for line in dta:
     cols[nme] = col
 
 
-# print(cols)
+print(' '.join(cols.keys))
 
 # https://imgs.xkcd.com/comics/3056
 num = 666

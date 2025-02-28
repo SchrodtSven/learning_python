@@ -1,6 +1,6 @@
 # FILE: _whatsthestory/property_story.py 
 #
-# SUBJECT: Eplaining the Python @property decorator 
+# SUBJECT: Explaining the Python @property decorator 
 #
 # AUTHOR: Sven Schrodt <sven@schrodt.club>
 # SINCE:  2025-02-04
