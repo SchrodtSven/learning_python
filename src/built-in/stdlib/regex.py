@@ -92,10 +92,12 @@ txt = '''                                                    Castrop-Rauxel, 16.
                     Am 03.01.2025 habe ich die  Site wieder angesurft.
                     Weitere Male (15.01.2025, 28.01. und 03.04, also gestern)
                     hagelte es nur Fehlermeldungen des Aromas'*NXDOMAIN'. Das 
-                    hilet an bis zum bis heute. 
+                    hielt an bis zum heutigen Tage. 
                     Sehen wir uns am 23.05.2025 zum Jahrestag des <GG />?
                     
                     Glück auf!  
+                    
+                    P.S: Ich weiß, Du hast den goldenen Keks nicht geklaut....
                     
                     Hanny 'Peter_X' Wechselbaum
 '''

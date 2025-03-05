@@ -21,6 +21,7 @@ assert(c == a+b)
 
 a = 10
 b = 5
-foo = a if a > b else b
+C = 3
+foo = a if a < b else (b if C < a else C) 
 print(a ,b, foo)
 

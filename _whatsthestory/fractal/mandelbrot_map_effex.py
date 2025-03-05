@@ -1,4 +1,4 @@
-itouch mandelmport numpy as np
+import numpy as np
 import matplotlib.pyplot as plt
 
 d, h = 800, 500  # pixel density (= image width) and image height
