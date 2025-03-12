@@ -25,3 +25,5 @@ nycflights.csv
 
 # locally tested C stuff 
 *.c
+
+_lost+found/
