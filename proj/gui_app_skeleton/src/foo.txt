@@ -1,0 +1,26 @@
+
+-- 
+-- 1 - Gib die Gesamtzahl aller Tracks der Tabelle Track aus.
+-- 2 - Gib die Gesamtzahl der Einträge in der Spalte Company der Tabelle Customer aus
+-- 3 - Zähle alle unterschiedlichen Städte die in der Spalte City der Tabelle Customer vorkommen
+-- 4 - Zähle alle verschiedenen Länder in der Tabelle Customer
+-- 5 - Zähle alle Customer, die vom Support Mitarbeiter (SupportRepId) Nummer 4 vertreten werden
+-- 6 - Zeige alle Einträge von Total aus Invoice an
+-- 7 - Gib die Summe der Spalte Total aus Invoice aus
+-- 8 - Gib die Summe der Spalte Total aus der Tabelle Invoice für alle Einträge mit einer Adresse in den USA aus
+-- 9 - Gib die Summe der Spalte Total für alle Aufträge seit 2009 aus
+-- 10 - Summiere alle einzigartigen Einträge in der Total Spalte
+-- 11 - Wie lang ist der Track mit der längsten Länge in der Tabelle Track?
+-- 12 - Wie lang ist der Track mit der kürzesten Länge in der Tabelle Track?
+-- 13 - Wie lang ist der Track mit der längsten Länge aus dem Album mit der AlbumId 5 in der Tabelle Track?
+-- 14 - Wie heißt der Track mit der längsten Laufzeit?
+-- 15 - Welcher Composer der Tabelle Track steht nach Alphabet an erster Stelle?
+-- 16 - Wie viele Bytes haben die Songs von AC/DC im Durchschnitt? (Tabelle Track)
+-- 17 - Gib die durchschnittliche und die gesamte Laufzeit der Tracks aus Album 8 aus (in einer Abfrage)
+-- 18a - Gib jedes Land aus, sowie die Anzahl wie oft das Land in der Spalte Country der Tabelle Customer vorkommt. Gruppiere die Anzeige nach Land und lass nur die Länder anzeigen, die öfter als 1 Mal vorkommen.
+-- 18b Optional - Gib jedes Land und den Durchschnitt der Spalte Total aus der Tabelle Invoice aus. Gruppiere die Anzeige nach Ländern und sortiere absteigend nach dem Durchschnitt der Spalte Total
+-- 19 - Liste alle AlbumIds und die Summe der Laufzeiten aller Tracks darin auf. Gruppiere anhand der AlbumId (Track Tabelle) und zeige nur Einträge wo die Summe der Laufzeit kleiner oder gleich 3000000 ist.
+-- 20 - Gib den minimalen und den maximalen Betrag der Spalte Total aus der Tabelle Invoice für jede Stadt aus. Lass jedoch nur die Städte anzeigen, deren minimaler Betrag über 0,99 ist.
+-- Antworttext Frage 1
+-- Editor für formatierte Texte
+-- 

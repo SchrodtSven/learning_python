@@ -1,4 +1,4 @@
-# example.py
+# plot xkcd style xkcd.py
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -12,5 +12,5 @@ with plt.xkcd():
     fig.savefig("example.png")
     plt.show()
     
-    
+  
     

@@ -12,3 +12,6 @@ waldo
 fred
 plugh
 thud
+spam 
+ham 
+eggs
