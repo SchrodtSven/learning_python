@@ -1,5 +1,0 @@
-    Rot        13
-    Blau       24
-    Grün        1
-    Schwarz    90
-    Magenta     3

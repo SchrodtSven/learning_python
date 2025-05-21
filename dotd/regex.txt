@@ -1,4 +1,0 @@
-# Aufgabe 1, Geburtsnamen der Frauen suchen
-# Aufgabe 2, Die reinen Zeichenketten in der Ticketspalte ersetzen durch XXX zb.
-# Aufgabe 3, Die Initialien als zusätzliche Spalte hinzufügen.
-# Aufgabe 4, Alle Passagiere einteilen in Altersgruppen, labels=["Child", "Teen", "Adult", "Middle-Aged", "Senior"]
