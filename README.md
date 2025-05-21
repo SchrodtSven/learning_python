@@ -1,5 +1,6 @@
 # learning_python
-Guess what...
+Guess what .... 
+might be mattering here!
 
 ## Prologue
 
@@ -12,7 +13,7 @@ I am learning Python now - nuff said.
 
 ### Directories 
 
-src - Source code files 
+<del>src - Source code files </del> - makes no sense
 
 test - Unit tests 
 
