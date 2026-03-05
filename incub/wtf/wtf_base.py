@@ -46,10 +46,11 @@ class WTFQueryBuilder:
         return endpoint + "?" + urllib.parse.urlencode(dict_my)
 
 
-# wtf = WTFQueryBuilder()
-# print(wtf.build_full_query())
-""" client = WTFHttpClient()
-uri_1 = 'https://de.wiktionary.org/w/api.php?action=query&list=search&srsearch=Fubar&format=json'
-uri = 'http://localhost:8080/reflect.php'
-response = client.get(uri)
-print(response.headers) """
+if __name__ == "__main__":
+    wtf = WTFQueryBuilder()
+    print(wtf.build_full_query("Peter Parker"))
+    client = WTFHttpClient()
+    uri_1 = 'https://de.wiktionary.org/w/api.php?action=query&list=search&srsearch=Fubar&format=json'
+    #uri = 'http://localhost:8080/reflect.php'
+    response = client.get(uri_1)
+    print(response.headers)
