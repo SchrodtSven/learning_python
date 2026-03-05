@@ -4,6 +4,8 @@
 #
 # AUTHOR: Sven Schrodt<sven@schrodt.nrw>
 # SINCE: 2025-02-12
+# - TODO: refactor me!!!
+
 import requests
 import urllib.parse
 
@@ -18,9 +20,10 @@ class WTFHttpClient:
     def __init__(self):
         pass
 
-    def get(self, uri):
-        return requests.get(uri, headers=self.headers)
-        # url = 'https://de.wiktionary.org/w/api.php?action=query&list=search&srsearch=Fubar&format=json'
+    def get(self, uri, ret=True):
+        self.response = requests.get(uri, headers=self.headers)
+        if ret:
+            return self.response
 
 
 class WTFQueryBuilder:
@@ -35,12 +38,12 @@ class WTFQueryBuilder:
     def __init__(self, search="Foo"):
         self.search = search
 
-    def build_full_query(self, lemma: str, language: str = "de") -> str:
+    def build_full_query(self, lemma: str, language: str = "de", format="json") -> str:
         endpoint = "https://www.wikidata.org/w/api.php"
         dict_my = {
             "action": "wbsearchentities",
-            "format": "json",
-            "language": "de",
+            "format": format,
+            "language": language,
             "search": lemma,
         }
         return endpoint + "?" + urllib.parse.urlencode(dict_my)
@@ -48,9 +51,8 @@ class WTFQueryBuilder:
 
 if __name__ == "__main__":
     wtf = WTFQueryBuilder()
-    print(wtf.build_full_query("Peter Parker"))
-    client = WTFHttpClient()
-    uri_1 = 'https://de.wiktionary.org/w/api.php?action=query&list=search&srsearch=Fubar&format=json'
-    #uri = 'http://localhost:8080/reflect.php'
-    response = client.get(uri_1)
-    print(response.headers)
+    uri = wtf.build_full_query(lemma="Peter Parker", language="fr")
+    print(uri)
+    # client = WTFHttpClient()
+    # response = client.get(uri)
+    # print(response.headers)
