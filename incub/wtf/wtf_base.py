@@ -2,7 +2,7 @@
 #
 # SUBJECT: Consuming wiki* resources
 #
-# AUTHOR: Sven Schrodt<sven@schrodt.club>
+# AUTHOR: Sven Schrodt<sven@schrodt.nrw>
 # SINCE: 2025-02-12
 import requests
 import urllib.parse

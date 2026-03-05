@@ -1,7 +1,7 @@
 # FILE: built-in/op.py 
 # SUBJECT: Operators in Python 
 #
-# AUTHOR: Sven Schrodt <sven@schrodt.club>
+# AUTHOR: Sven Schrodt <sven@schrodt.nrw>
 # SINCE:  2025-01-23
 
 import operator

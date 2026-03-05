@@ -3,7 +3,7 @@
 #  The Formatter class has the following public methods:
 #  - format(format_string, /, *args, **kwargs)¶
 # 
-# AUTHOR: Sven Schrodt <sven@schrodt.club>
+# AUTHOR: Sven Schrodt <sven@schrodt.nrw>
 # SINCE:  2025-01-17 
 # 
 

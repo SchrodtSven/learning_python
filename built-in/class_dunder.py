@@ -2,7 +2,7 @@
 # SUBJECT: Dunder functions in in Python classes
 #          - name and intent of 'magic functions'
 #
-# AUTHOR: Sven Schrodt <sven@schrodt.club>
+# AUTHOR: Sven Schrodt <sven@schrodt.nrw>
 # SINCE:  2025-01-29
 # SEE: https://realpython.com/python-classes/#special-methods-and-protocols
 # SEE: https://realpython.com/python-magic-methods/

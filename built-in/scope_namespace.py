@@ -1,7 +1,7 @@
 # FILE: built-in/scope_namespace.py 
 # SUBJECT: Namespaces and Scope in Python 
 #
-# AUTHOR: Sven Schrodt <sven@schrodt.club>
+# AUTHOR: Sven Schrodt <sven@schrodt.nrw>
 # SINCE:  2025-01-29
 # 
 

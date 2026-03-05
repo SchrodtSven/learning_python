@@ -2,7 +2,7 @@
 # datascience/cities_play
 #
 # SUBJECT: Playground for Pandas' DataFrame with cities datasets
-# AUTHOR: Sven Schrodt <sven@schrodt.club>
+# AUTHOR: Sven Schrodt <sven@schrodt.nrw>
 # SINCE: 2025-02-24
 
 

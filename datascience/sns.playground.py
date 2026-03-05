@@ -2,7 +2,7 @@
 # datascience/cities_play
 #
 # SUBJECT: Playground for Seaborn's stuff
-# AUTHOR: Sven Schrodt <sven@schrodt.club>
+# AUTHOR: Sven Schrodt <sven@schrodt.nrw>
 # SINCE: 2025-02-26
 import numpy as np
 import seaborn as sns

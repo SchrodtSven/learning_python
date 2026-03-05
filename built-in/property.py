@@ -1,7 +1,7 @@
 # FILE: built-in/property.py 
 # SUBJECT: Example class demonstrating the usage of properties
 #
-# AUTHOR: Sven Schrodt <sven@schrodt.club>
+# AUTHOR: Sven Schrodt <sven@schrodt.nrw>
 # SINCE:  2025-01-29
 # SEE: https://peps.python.org/pep-0008/
 # SEE: https://realpython.com/python-classes/#special-methods-and-protocols

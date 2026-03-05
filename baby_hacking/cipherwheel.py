@@ -1,7 +1,7 @@
 # FILE: baby_hacking/cipherwheel.py 
 # SUBJECT: simple crypting
 #
-# AUTHOR: Sven Schrodt <sven@schrodt.club>
+# AUTHOR: Sven Schrodt <sven@schrodt.nrw>
 # SINCE:  2025-01-23
 # SEE: https://forum.selfhtml.org/self/2008/apr/18/wettangebot-verschluesselung-knacken/1235776#m1235776
 

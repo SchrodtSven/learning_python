@@ -2,7 +2,7 @@
 #  
 # SUBJECT  Mocking etxt data for unit testing purposes
 # SINCE 2025-01-17 
-# AUTHOR Sven Schrodt <sven@schrodt.club>
+# AUTHOR Sven Schrodt <sven@schrodt.nrw>
 
 from random import randrange
 class MockTextGenerator:

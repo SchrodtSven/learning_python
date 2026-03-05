@@ -1,7 +1,7 @@
 # FILE: built-in/map_filter_reduce.py
 # SUBJECT: Functional approach with map(), filter() & reduce()
 #
-# AUTHOR: Sven Schrodt <sven@schrodt.club>
+# AUTHOR: Sven Schrodt <sven@schrodt.nrw>
 # SINCE: 2025-01-28
 # SEE: https://book.pythontips.com/en/latest/map_filter.html
 # SEE: https://github.com/yasoob/intermediatePython/

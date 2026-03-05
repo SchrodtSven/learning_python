@@ -2,7 +2,7 @@
 #
 # SUBJECT: Explaining the Python @property decorator 
 #
-# AUTHOR: Sven Schrodt <sven@schrodt.club>
+# AUTHOR: Sven Schrodt <sven@schrodt.nrw>
 # SINCE:  2025-02-04
 # SEE: https://www.programiz.com/python-programming/property
 

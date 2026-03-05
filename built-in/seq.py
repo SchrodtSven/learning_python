@@ -6,7 +6,7 @@
 # position (in the sequence).
 # Every sequence has a length/size -> SEE: len()
 #
-# AUTHOR: Sven Schrodt <sven@schrodt.club>
+# AUTHOR: Sven Schrodt <sven@schrodt.nrw>
 # SINCE:  2025-01-17 
 # 
 

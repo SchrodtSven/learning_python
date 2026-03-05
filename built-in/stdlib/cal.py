@@ -1,7 +1,7 @@
 # FILE: built-in/stdlib/cal.py 
 # SUBJECT: Calendar functions in in Python 
 #
-# AUTHOR: Sven Schrodt <sven@schrodt.club>
+# AUTHOR: Sven Schrodt <sven@schrodt.nrw>
 # SINCE:  2025-01-30
 
 import calendar

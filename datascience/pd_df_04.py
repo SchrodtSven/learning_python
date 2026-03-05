@@ -2,7 +2,7 @@
 # datascience/pd_df_04.py
 # 
 # SUBJECT: Playground for Pandas' DataFrame
-# AUTHOR Sven Schrodt <sven@schrodt.club>
+# AUTHOR Sven Schrodt <sven@schrodt.nrw>
 # SINCE: 2025-01-03
 
 import pandas as pd

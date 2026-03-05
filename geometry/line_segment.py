@@ -1,7 +1,7 @@
 # FILE: geometry/line_segment.py 
 # SUBJECT: Support for type hints in Python 
 #
-# AUTHOR: Sven Schrodt <sven@schrodt.club>
+# AUTHOR: Sven Schrodt <sven@schrodt.nrw>
 # SINCE:  2025-01-28
 # 
 class LineSegment:

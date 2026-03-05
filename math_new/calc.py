@@ -1,7 +1,7 @@
 # FILE: math_new/calc.py 
 # SUBJECT: Class  for some calculating stuff - rather Physix than Math, but we ignore it for now
 #
-# AUTHOR: Sven Schrodt <sven@schrodt.club>
+# AUTHOR: Sven Schrodt <sven@schrodt.nrw>
 # SINCE:  2025-01-30
 
 

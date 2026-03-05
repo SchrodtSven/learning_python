@@ -2,7 +2,7 @@
 # built-in/intro.py
 # 
 # SUBJECT: Python, qu'est-ce que c'est?
-# AUTHOR Sven Schrodt <sven@schrodt.club>
+# AUTHOR Sven Schrodt <sven@schrodt.nrw>
 # SINCE: 2025-01-03
 
 # The reference manual describes the syntax and “core semantics” of the Python language:

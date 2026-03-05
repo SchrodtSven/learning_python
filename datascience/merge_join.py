@@ -2,7 +2,7 @@
 # datascience/merge
 # 
 # SUBJECT:Merging, joining DFs
-# AUTHOR: Sven Schrodt <sven@schrodt.club>
+# AUTHOR: Sven Schrodt <sven@schrodt.nrw>
 # SINCE: 2025-02-24
 import pandas as pd
 

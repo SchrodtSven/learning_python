@@ -2,7 +2,7 @@
 # 
 # 
 # SUBJECT: learning baby python
-# AUTHOR Sven Schrodt <sven@schrodt.club>
+# AUTHOR Sven Schrodt <sven@schrodt.nrw>
 
 
 class QueryBuilder:

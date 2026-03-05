@@ -1,7 +1,7 @@
 # FILE: built-in/while.py 
 # SUBJECT: while learning Python: 
 #
-# AUTHOR: Sven Schrodt <sven@schrodt.club>
+# AUTHOR: Sven Schrodt <sven@schrodt.nrw>
 # SINCE:  2025-01-02
 import time
 i = 1

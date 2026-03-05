@@ -1,7 +1,7 @@
 # FILE: built-in/queue.py 
 # SUBJECT: Queues in Python 
 #
-# AUTHOR: Sven Schrodt <sven@schrodt.club>
+# AUTHOR: Sven Schrodt <sven@schrodt.nrw>
 # SINCE:  2025-01-18
 # 
  

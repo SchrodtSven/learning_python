@@ -2,7 +2,7 @@
 # FILE: built-in/re.py
 # SUBJECT: Regular expression in Python ('s standard library)
 #
-# AUTHOR: Sven Schrodt <sven@schrodt.club>
+# AUTHOR: Sven Schrodt <sven@schrodt.nrw>
 # SINCE: 2025-02-03
 # SEE: https://docs.python.org/3/howto/regex.html
 

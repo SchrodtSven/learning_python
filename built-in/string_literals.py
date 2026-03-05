@@ -2,7 +2,7 @@
 # FILE: built-in/string_literals.py
 # SUBJECT: how to write numbers (/numeric literals) in Python 
 #
-# AUTHOR: Sven Schrodt <sven@schrodt.club>
+# AUTHOR: Sven Schrodt <sven@schrodt.nrw>
 # SINCE: 2025-02-04
 #
 

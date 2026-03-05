@@ -1,6 +1,6 @@
 # learning_python
-Guess what .... 
-might be mattering here!
+
+Guess what ...
 
 ## Prologue
 
@@ -13,5 +13,6 @@ Tbd
 ## Appendix 
 
 ### Directories 
+
 test - Unit tests 
 meta - stuff about stuff about Python

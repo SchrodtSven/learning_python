@@ -1,7 +1,7 @@
 # FILE: curses/foo.py
 # SUBJECT: Dict Comprehension in Python 
 #
-# AUTHOR: Sven Schrodt <sven@schrodt.club>
+# AUTHOR: Sven Schrodt <sven@schrodt.nrw>
 # SINCE: 2025-01-27
 # https://www.devdungeon.com/content/curses-programming-python
 import curses

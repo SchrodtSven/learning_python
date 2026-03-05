@@ -1,7 +1,7 @@
 #
 # SUBJECT: Unit testing built-in string methods
 # SINCE: 2025-01-17 
-# AUTHOR: Sven Schrodt <sven@schrodt.club>
+# AUTHOR: Sven Schrodt <sven@schrodt.nrw>
 #
 # FAQ: 
 #           run it with: python3 -m $THIS_FILE_NAME

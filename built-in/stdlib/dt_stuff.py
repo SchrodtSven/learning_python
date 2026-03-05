@@ -2,7 +2,7 @@
 # 
 # SUBJECT: Using datetime in Python
 #
-# AUTHOR: Sven Schrodt <sven@schrodt.club>
+# AUTHOR: Sven Schrodt <sven@schrodt.nrw>
 # SINCE:  2025-01-30
 # 
 import datetime

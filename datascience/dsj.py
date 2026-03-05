@@ -2,7 +2,7 @@
 # datascience/dsj
 #
 # SUBJECT: Playground for Pandas' DataFrame with data science jobs salary etc.
-# AUTHOR: Sven Schrodt <sven@schrodt.club>
+# AUTHOR: Sven Schrodt <sven@schrodt.nrw>
 # SINCE: 2025-02-26
 import numpy as np
 import pandas as pd

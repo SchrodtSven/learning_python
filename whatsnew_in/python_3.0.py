@@ -2,7 +2,7 @@
 # 
 # SUBJECT: New in Python 3.0
 #
-# AUTHOR: Sven Schrodt <sven@schrodt.club>
+# AUTHOR: Sven Schrodt <sven@schrodt.nrw>
 # SINCE:  2025-01-28
 # 
 

@@ -1,7 +1,7 @@
 # FILE: built-in/zip.py
 # SUBJECT: zip, zip hooray...
 #
-# AUTHOR: Sven Schrodt <sven@schrodt.club>
+# AUTHOR: Sven Schrodt <sven@schrodt.nrw>
 # SINCE: 2025-01-28
 
 languages = ['Java', 'Python', 'JavaScript', 'Rust', 'PHP', 'Perl']

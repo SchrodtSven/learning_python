@@ -1,7 +1,7 @@
 # FILE: built-in/modules.py
 # SUBJECT: Tagesaufgabe 2 zu lambda
 #
-# AUTHOR: Sven Schrodt <sven@schrodt.club>
+# AUTHOR: Sven Schrodt <sven@schrodt.nrw>
 # SINCE: 2025-01-29
 
 # example module with mathematical functions

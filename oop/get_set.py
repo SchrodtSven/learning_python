@@ -2,7 +2,7 @@
 #
 # SEE: https://python-course.eu/oop/properties-vs-getters-and-setters.php
 #
-# AUTHOR: Sven Schrodt <sven@schrodt.club>
+# AUTHOR: Sven Schrodt <sven@schrodt.nrw>
 # SINCE:  2025-01-23
 # 
 class P:
