@@ -6,15 +6,18 @@ import urllib
 
 class WikiTeleFoo:
 
+
+    endpoint = "https://www.wikidata.org/w/api.php"
+
     def build_qs(self, lemma: str, language: str = 'de')->str:
-        endpoint = "https://www.wikidata.org/w/api.php"
+       
         dict_my = {
             'action': 'wbsearchentities',
             'format': 'json',
             'language': 'de',
             'search': lemma
         }
-        return endpoint + '?' + urllib.parse.urlencode(dict_my)
+        return self.endpoint + '?' + urllib.parse.urlencode(dict_my)
     
 
 
